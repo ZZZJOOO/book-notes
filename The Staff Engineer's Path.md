@@ -1,3 +1,24 @@
+## 4. Finite Time
+When you level up, you see more problems at hand. And you can't do them all.
+### 4.1 Doing All the Things
+You decide what you work on everyday with limited time: what's important for the company, team and you.
+
+### 4.2 Time
+Every task you choose to work on has an opportunity cost. Decision comes with a cost.
+#### 4.2.1 Finite Time
+- Put focused work time in the calendar and plan for task you would like to take on for the day and week. Thus you keep track of what you plan to do throughout the day and if you have time for a side request.
+- If you look at longer terms, you might need to block some fraction of time
+#### 4.2.2 How Busy Do You Like to Be
+- Some work could be unpredictable.
+- Drop something for emergency.
+- Observe your weekly work load and comfort/stress limit.
+#### 4.2.3 ProjectQueue.pop()
+- Locator map tells you what's important. Treasure map tells you what you could deliver.
+- Evaluate the importance of each project, task, issue.
+- List out a list of work you should take. Sort them out according to priority.
+### 4.3 Resource Constraints
+### 4.4 Choosing Projects
+
 ## You're a Role Model Now(Sorry)
 ### What Does It Mean to Do a Good Job?
 
@@ -8,11 +29,9 @@ If you are a role model, then
 - you should take leadership as some skill to learn similiar to a new programming language/tech stack. You could start small, eg. by help onboard new team members
 
 ### Be Competent
-
 Staff engineer = technical + leader
 
 #### Know Things
-
 Devote enough time to building experience
 - time * (learning + practice) => tech skill
 - You are not expected to know every topic. It's okay if you know the least on some new area/domain. Start learning from there.
@@ -127,3 +146,59 @@ Write things down clearly.
 Design your software that's easy to maintain, easy to decommission and fault-tolerant.
 
 The metric for success is whether other people want to work with you.
+
+## What's Next
+You now know 
+- What your job is
+- your scope and primary focus
+- how to develop strategy and vision
+- how to prioritize work and lead projects
+- how to navigate obstacles
+- how to model good engineering
+- how to level up your team
+
+Think about how to level up your life?
+
+### Your Career
+Where are you going in your career and life journey? Look around and think of the options as paths in the trail map.
+
+#### What's Important to You
+- Some life priorities could: being financially secure, supporting family, having flexible schedules, learning opportunities, challenging yourself
+- Find out what matters to you and work backwards from that
+
+#### Where Are You Going?
+- Look at the big picture and your priorities
+- Figure out a plan, set up some milestones
+- Make SMART goals(specific, measurable, achievable, relevant, timebounded)
+- Checkout others' journey. Don't limit yourself to your current perspective. 
+- Consider path that are risker. Don't limit yourself to stay in the comfort zone.
+
+#### What Do You Need to Invest in?
+What skill do those future role models have? How do they spend time? How do they build up the network?
+- Skills are learnable. You need to make efforts to get experience points for skills you would like to level up.
+- Work backwards from your goal and find out the necessary skills. You can't be expert at everything.(technical domain, glue work, leadership)
+- Learn how to build a network for your career. 
+- Making a name for yourself and make your career profolio visible.
+- Decide which project to work on. Your decision on role matters to what experience you gain. What experience you gain contributes to your long term career goal.
+
+### Your Current Role
+Look at whether your work is good for your long term goal
+
+#### Five Metrics to Keep An Eye on
+Reflect on these metrics once every few months. Your job could destroy your career and market value.
+- are you learning
+- are you learning transferable skills
+- how do you feel about recruiting your friends to this company
+- how confident you feel
+- how stressed you feel
+
+#### Should you Change Role
+You won't find a perfect role to match all of your goals. You need to do the trade-off.
+- does your org shield you from outside world shift? do you learn the transferrable skills and keep up with the industry changes?
+
+
+### Paths from Here
+
+- Find a way to work effectively with less hours.
+
+### Your Choices Matter
