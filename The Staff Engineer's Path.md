@@ -1,3 +1,97 @@
+## 2. Three Maps
+You need context about the people you work with and understand the situation and how to make decisions.
+You need to know the surroundings.
+### 2.1 Uh, Did Anyone Bring a Map?
+Draw some maps to better understand the big picture of where you are, how your organization work, what your team is trying to achieve.
+- locator map: provide perspective to help you understand where you stand and what's your purpose in the wider organization and company
+- topographical map: the hazards ahead, the politics, the organization chart and how org make decisions, the existing navigable paths
+- treasure map: the goals and milestones on the journey.
+
+You need deliberate practice to clarify those three maps everyday. The maps are obscured.
+
+You need to sort throught the facts around you and extract the important facts that will affect your project and organization: meetings, emails, documents, wikis, tech talks
+### 2.2 The Locator Map: Getting Perspective
+To make good decisions, you need to be self-awared of you current stand and other point of views in bigger context.
+
+There are some caveat you need to watch out.
+- Don't just focus on local maximum.
+- Don't take things outside of your current project as trivial.
+- Don't be that frog being boilded down slowly.
+- Don't forget what the work is for. The XYZ problem.
+
+#### 2.2.1 Seeing Bigger
+Look at where your org sit in the company. Check out the connection to external orgs inside the company, and how different teams in your org coordinate internally.
+- Take an oursider's view: Do the technical decisions make sense outside your team? Does each decision make sense to your goal?
+- Understand different people's point of view, especially those outside of yoru current most related group.(engineers in other org, product managers, customers, managers)
+- Understand what's important for your company. Some goals are more significant than others, and that priority may change over time.
+- Understand your customer and what success mean to them.
+- Respect what comes before. Your problem is not likely a new one. Understand what other people have done before drafting a new one.
+### 2.3 The Topographical Map: Navigatinv the Terrain
+#### 2.3.1 Rough Terrain
+Why do you need a topographical map?
+- You know how to build the momentum for a project. Good idea needs traction. Who could be the sponsor? How to help the idea spread? How to make it to the finish line?
+- You know the hardest part in advance. You know how to navigate an obstacle and when to take an alternative path.
+- You know your organization's planning cycle and how not to wait due to the policy/mechanism.
+#### 2.3.2 Understanding Your Organization
+What is the average journey for your organization to navigate a project?
+
+- The culture: individual autonomy, feeling included, mistake tolerance, who make the decision, project friction, personality
+- information transparency: do you have access to information that will affect your work?
+- Oral information or written information. Do your org do the deliberate planning on your tasks or is it casual?
+- Top-down or bottom up initiative: do you get support for initiative that you think it's important?
+- Move fast or slow. Do you need to go round-by-round to ensure the plan has coverred all corner cases?
+- Front door or back channel: do you file ticket to communicate with others or just have an informal chat?
+- allocated or available task planning
+- how to you gain trust and get promoted?
+- What do your leaders think is important? power-oriented, rule-oriented, performance-oriented?
+- Understand the gaps between different team/org: responsibilities, culture, goal, planning
+- Understand how your bar-raiser/gatekeepers make the decision.
+- How to resolve conflicts and reach consensus cross-team.
+- Is it an unwinnable fight?
+- Use well-defined paths if exist, and also learn the unofficial paths.
+
+#### 2.3.3 What Points of Interest Are On Your Map?
+Something you could consider to put on your map: unexpected cliffs, rude behaviors or communication styles, guardrails, local politcs: who's at war with whom, leader styles
+- How do information flow in your org and how does decisions happen? Is there a memo?
+- Where is the room where decisions take place or are decisions made informally in 1-1 conversations
+- Ask to join in the room. Show your impact and add values: show up prepared, speak concisely, be a collaborative contributor.
+- Discover the unwritten structures that influence your org.
+
+#### 2.3.4 Keeping Your Topographic Map Up To Date
+You might need to keep track of team leaders, dependent project delivery, quarterly planning cycle, launch of new useful tool/platform, time leave for stake holders.
+- Keep up with announcement channels/email lists
+- Stay attached to the work you are doing: take a task and make code changes, code reviews, do local testing
+- Read senior people's calendar, meeting notes, communication channels
+- Make time to read design docs, proposals, press release.
+- Talk to your leadership.
+- Chat with collegues.
+
+#### 2.3.5 If the Terrain Is Still Difficult to Navigate, Be a Bridge
+What could slow down the org: teams don't know how to talk to each other, nobody takes ownership to make decisions.
+- You could bridge the gap by: writing documents to show how projects connect to each other, sending email summary, shedule meetings with people on important topics
+
+### 2.4 The Treasure Map: Remind Me Where We're Going?
+Know what your goal is and why it's important.
+
+#### 2.4.1 Chasing Shiny Things
+Why are you chasing after those short-term deliveries? How do they connect the dots and add value to your long-term goal?
+- Keep everyone in the same direction.
+- The existing project should add value to solving long term problems.
+- Get aligned on the initiatives and don't compete in chaos.
+- Grow people to see, plan and achieve big projects.
+
+#### 2.4.2 Taking a Longer View
+- Work backwards from a long term goal. Find out the options you have to get closer to it.
+- Share the map with others and help them understand why it matters.
+
+#### 2.4.3 If the Treasure Map Is Still Unclear, It Might Be Time to Draw a New One
+You could write up summary for misalignment, spell out facts and share them. But you might still find multiple competing paths ahead.
+
+### 2.5 Your Personal Journey
+As you grow more senior, the impact of your work takes longer time to see.
+- Tell the story. What your goals are and how you plan to achieve. 
+- Make the small tasks become part of the big story. How does current work contribute to that goal.
+
 ## 4. Finite Time
 When you level up, you see more problems at hand. And you can't do them all.
 ### 4.1 Doing All the Things
@@ -19,7 +113,7 @@ Every task you choose to work on has an opportunity cost. Decision comes with a 
 ### 4.3 Resource Constraints
 ### 4.4 Choosing Projects
 
-## You're a Role Model Now(Sorry)
+## 7. You're a Role Model Now(Sorry)
 ### What Does It Mean to Do a Good Job?
 
 If you are a role model, then
@@ -147,7 +241,7 @@ Design your software that's easy to maintain, easy to decommission and fault-tol
 
 The metric for success is whether other people want to work with you.
 
-## What's Next
+## 9. What's Next
 You now know 
 - What your job is
 - your scope and primary focus
