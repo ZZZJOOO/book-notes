@@ -1,3 +1,34 @@
+## 1. What Woul You Say You Do Here?
+### 1.1 What Even Is a Staff Engineer?
+#### 1.1.1 Why Do We Need Engineers Who Can See The Big Picture?
+Senior needs to make decisions taking an outsider's view: what does the business need? What's the risks? How much time and effort to put in? Is it aligned with your org's long term goal?
+
+How your decisions will play out in the future? What technical strategies you set: tech stack, platform, tool etc. You should share the context and help engineers make sense of it.
+
+You should stay up-to-date with technical development.
+
+#### 1.1.2 Why Do We Need Engineers Who Lead Projects That Cross Multiple Teams?
+- Team boundaries have overlap and gaps that leak to architecture.
+- Negotiation with busy teams that don't want to make changes is hard.
+- Not all work for a complex problem can be known at the start.
+
+Some responsibilities are not ended up owning by anyone. Senior needs to take that on their shoulder.
+- At the beginning they need to scope out the work and create a proposal. 
+- As the project is underway, they will write a high level design and be a main contact point of it.
+- Seniors maintain high engineering standard, anticipate risks and ask hard questions.
+- Seniors set good examples and spend time mentoring others.
+
+#### 1.1.3 Why Do We Need Engineers Who Are A Good Influence?
+Software can affect people's life and make a difference in the world. We need to take software seriously.
+
+Creating high-quality, efficient, effective software is not easy. Teams need technical leader with skills, experience, responsible to create the software along the way.
+
+### 1.2 Enough Philosophy. What's My Job?
+
+### 1.3 Understanding Your Role
+
+### 1.4 Aligning on Scope, Shapre, and Primary Focus
+
 ## 2. Three Maps
 You need context about the people you work with and understand the situation and how to make decisions.
 You need to know the surroundings.
@@ -26,6 +57,8 @@ Look at where your org sit in the company. Check out the connection to external 
 - Understand what's important for your company. Some goals are more significant than others, and that priority may change over time.
 - Understand your customer and what success mean to them.
 - Respect what comes before. Your problem is not likely a new one. Understand what other people have done before drafting a new one.
+
+
 ### 2.3 The Topographical Map: Navigatinv the Terrain
 #### 2.3.1 Rough Terrain
 Why do you need a topographical map?
